@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedicalApp</string>
+    <string name="username_hint">Please enter your username</string>
+    <string name="login">Login</string>
+    <string name="name">Name: </string>
+    <string name="user_type">User Type:</string>
+    <string name="view_medical_reports">View Medical Reports</string>
+    <string name="view_prescriptions">View Prescriptions</string>
+    <string name="user_id">User ID:</string>
+    <string name="username">Username:</string>
+    <string name="view_requests">View Requests</string>
+</resources>
